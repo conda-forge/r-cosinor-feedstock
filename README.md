@@ -1,11 +1,11 @@
-About r-cosinor
-===============
+About r-cosinor-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cosinor-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/sachsmc/cosinor
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cosinor-feedstock/blob/main/LICENSE.txt)
 
 Summary: cosinor is a set of simple functions that transforms longitudinal data to estimate the cosinor linear model as described in Tong (1976). Methods are given to summarize the mean, amplitude and acrophase, to predict the mean annual outcome value, and to test the coefficients.
 
